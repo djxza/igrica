@@ -1,0 +1,2 @@
+add vulkan
+fix settings and size 
